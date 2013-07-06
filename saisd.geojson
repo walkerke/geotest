@@ -1,0 +1,112 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "School": "Arnold", "Address ": "467 Freiling Dr. ", "Zip": 78213, "Y": 29.49075021, "X": -98.53790048 }, "geometry": { "type": "Point", "coordinates": [ -98.53790048, 29.49075021 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "School": "Ball", "Address ": "343 Koehler Court ", "Zip": 78223, "Y": 29.36642999, "X": -98.46208737 }, "geometry": { "type": "Point", "coordinates": [ -98.46208737, 29.36642999 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "School": "Barkley-Ruiz*", "Address ": "1111 S. Navidad St. ", "Zip": 78207, "Y": 29.41662043, "X": -98.52382074 }, "geometry": { "type": "Point", "coordinates": [ -98.52382074, 29.41662043 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "School": "Baskin", "Address ": "630 Crestview Dr. ", "Zip": 78201, "Y": 29.48723114, "X": -98.56058085 }, "geometry": { "type": "Point", "coordinates": [ -98.56058085, 29.48723114 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "School": "Beacon Hill", "Address ": "1411 W. Ashby Place ", "Zip": 78201, "Y": 29.4501507, "X": -98.51492051 }, "geometry": { "type": "Point", "coordinates": [ -98.51492051, 29.4501507 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "School": "Bowden", "Address ": "515 Willow St. ", "Zip": 78202, "Y": 29.43261065, "X": -98.4687209 }, "geometry": { "type": "Point", "coordinates": [ -98.4687209, 29.43261065 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "School": "JT Brackenridge", "Address ": "1214 Guadalupe St. ", "Zip": 78207, "Y": 29.41827945, "X": -98.51344829 }, "geometry": { "type": "Point", "coordinates": [ -98.51344829, 29.41827945 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "School": "Brewer", "Address ": "906 Merida St. ", "Zip": 78207, "Y": 29.4094106, "X": -98.53408066 }, "geometry": { "type": "Point", "coordinates": [ -98.53408066, 29.4094106 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "School": "Briscoe*", "Address ": "2015 S. Flores St. ", "Zip": 78204, "Y": 29.40485102, "X": -98.50277085 }, "geometry": { "type": "Point", "coordinates": [ -98.50277085, 29.40485102 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "School": "Cameron(@Pfeiffer)", "Address ": "4551 Dietrich Rd ", "Zip": 78219, "Y": 29.44143022, "X": -98.40301085 }, "geometry": { "type": "Point", "coordinates": [ -98.40301085, 29.44143022 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "School": "Collins Garden", "Address ": "167 Harriman Place ", "Zip": 78204, "Y": 29.39676084, "X": -98.51788073 }, "geometry": { "type": "Point", "coordinates": [ -98.51788073, 29.39676084 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "School": "Cotton", "Address ": "1616 Blanco Rd. ", "Zip": 78212, "Y": 29.46067103, "X": -98.50788007 }, "geometry": { "type": "Point", "coordinates": [ -98.50788007, 29.46067103 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "School": "Crockett", "Address ": "2215 Morales St. ", "Zip": 78207, "Y": 29.43294021, "X": -98.52417103 }, "geometry": { "type": "Point", "coordinates": [ -98.52417103, 29.43294021 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "School": "De Zavala", "Address ": "2311 San Luis St. ", "Zip": 78207, "Y": 29.42256045, "X": -98.52475063 }, "geometry": { "type": "Point", "coordinates": [ -98.52475063, 29.42256045 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "School": "Douglass", "Address ": "318 Martin L. King Dr. ", "Zip": 78203, "Y": 29.41332029, "X": -98.47336114 }, "geometry": { "type": "Point", "coordinates": [ -98.47336114, 29.41332029 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "School": "Fenwick", "Address ": "1930 Waverly Ave. ", "Zip": 78228, "Y": 29.44899035, "X": -98.54208096 }, "geometry": { "type": "Point", "coordinates": [ -98.54208096, 29.44899035 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "School": "Forbes", "Address ": "2630 Sally Gay Dr. ", "Zip": 78223, "Y": 29.37330037, "X": -98.45069114 }, "geometry": { "type": "Point", "coordinates": [ -98.45069114, 29.37330037 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "School": "Foster", "Address ": "6718 Pecan Valley Dr. ", "Zip": 78223, "Y": 29.36030032, "X": -98.44487096 }, "geometry": { "type": "Point", "coordinates": [ -98.44487096, 29.36030032 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "School": "Franklin", "Address ": "1915 W. Olmos Dr. ", "Zip": 78201, "Y": 29.47358005, "X": -98.52702063 }, "geometry": { "type": "Point", "coordinates": [ -98.52702063, 29.47358005 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "School": "Gates", "Address ": "510 Morningview Dr. ", "Zip": 78220, "Y": 29.41046033, "X": -98.42703017 }, "geometry": { "type": "Point", "coordinates": [ -98.42703017, 29.41046033 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "School": "Graebner", "Address ": "530 Hoover St. ", "Zip": 78225, "Y": 29.3850502, "X": -98.52891037 }, "geometry": { "type": "Point", "coordinates": [ -98.52891037, 29.3850502 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "School": "Green", "Address ": "122 W. Whittier St. ", "Zip": 78210, "Y": 29.39965077, "X": -98.48254023 }, "geometry": { "type": "Point", "coordinates": [ -98.48254023, 29.39965077 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "School": "Herff", "Address ": "996 S. Hackberry St. ", "Zip": 78210, "Y": 29.40891051, "X": -98.4732609 }, "geometry": { "type": "Point", "coordinates": [ -98.4732609, 29.40891051 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "School": "Highland Hills", "Address ": "734 Glamis Ave. ", "Zip": 78223, "Y": 29.37954114, "X": -98.44101082 }, "geometry": { "type": "Point", "coordinates": [ -98.44101082, 29.37954114 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "School": "Highland Park", "Address ": "635 Rigsby Ave. ", "Zip": 78210, "Y": 29.39847083, "X": -98.46323028 }, "geometry": { "type": "Point", "coordinates": [ -98.46323028, 29.39847083 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "School": "Hillcrest", "Address ": "211 W. Malone Ave. ", "Zip": 78214, "Y": 29.38692035, "X": -98.50578061 }, "geometry": { "type": "Point", "coordinates": [ -98.50578061, 29.38692035 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "School": "Hirsch", "Address ": "4826 Sea Breeze Dr. ", "Zip": 78220, "Y": 29.40182052, "X": -98.3980906 }, "geometry": { "type": "Point", "coordinates": [ -98.3980906, 29.40182052 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "School": "Huppertz", "Address ": "247 Bangor St. ", "Zip": 78228, "Y": 29.45457085, "X": -98.5761309 }, "geometry": { "type": "Point", "coordinates": [ -98.5761309, 29.45457085 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "School": "Japhet", "Address ": "314 Astor St. ", "Zip": 78210, "Y": 29.38752069, "X": -98.46940075 }, "geometry": { "type": "Point", "coordinates": [ -98.46940075, 29.38752069 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "School": "Kelly", "Address ": "1026 Thompson Place ", "Zip": 78226, "Y": 29.39528016, "X": -98.54077082 }, "geometry": { "type": "Point", "coordinates": [ -98.54077082, 29.39528016 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "School": "King", "Address ": "1001 Ceralvo St. ", "Zip": 78207, "Y": 29.40751049, "X": -98.53659034 }, "geometry": { "type": "Point", "coordinates": [ -98.53659034, 29.40751049 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "School": "Lamar", "Address ": "201 Parland Place ", "Zip": 78209, "Y": 29.45837108, "X": -98.4651108 }, "geometry": { "type": "Point", "coordinates": [ -98.4651108, 29.45837108 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "School": "Madison", "Address ": "2900 W. Woodlawn Ave. ", "Zip": 78228, "Y": 29.45650092, "X": -98.55182005 }, "geometry": { "type": "Point", "coordinates": [ -98.55182005, 29.45650092 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "School": "Margil", "Address ": "1000 Perez St. ", "Zip": 78207, "Y": 29.43307373, "X": -98.51381414 }, "geometry": { "type": "Point", "coordinates": [ -98.51381414, 29.43307373 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "School": "Maverick", "Address ": "107 Raleigh St. ", "Zip": 78201, "Y": 29.47677072, "X": -98.54763035 }, "geometry": { "type": "Point", "coordinates": [ -98.54763035, 29.47677072 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "School": "Miller", "Address ": "207 Lincolnshire Dr. ", "Zip": 78220, "Y": 29.41122083, "X": -98.43879037 }, "geometry": { "type": "Point", "coordinates": [ -98.43879037, 29.41122083 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "School": "Neal", "Address ": "3407 Capitol Ave. ", "Zip": 78201, "Y": 29.48356112, "X": -98.51349053 }, "geometry": { "type": "Point", "coordinates": [ -98.51349053, 29.48356112 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "School": "Nelson", "Address ": "1014 Waverly Ave. ", "Zip": 78201, "Y": 29.44756036, "X": -98.527031 }, "geometry": { "type": "Point", "coordinates": [ -98.527031, 29.44756036 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "School": "Ogden", "Address ": "2215 Leal St. ", "Zip": 78207, "Y": 29.43626108, "X": -98.53655001 }, "geometry": { "type": "Point", "coordinates": [ -98.53655001, 29.43626108 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "School": "Pershing", "Address ": "600 Sandmeyer St. ", "Zip": 78208, "Y": 29.44060058, "X": -98.4529404 }, "geometry": { "type": "Point", "coordinates": [ -98.4529404, 29.44060058 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "School": "Riverside Park*", "Address ": "202 School St. ", "Zip": 78210, "Y": 29.38888038, "X": -98.48174054 }, "geometry": { "type": "Point", "coordinates": [ -98.48174054, 29.38888038 ] } }
+,
+{ "type": "Feature", "id": 42, "properties": { "School": "Rodríguez", "Address ": "3626 W. Cesar E. Chavez Blvd. ", "Zip": 78207, "Y": 29.42504252, "X": -98.53861059 }, "geometry": { "type": "Point", "coordinates": [ -98.53861059, 29.42504252 ] } }
+,
+{ "type": "Feature", "id": 43, "properties": { "School": "Rogers", "Address ": "620 Mcllvaine St. ", "Zip": 78212, "Y": 29.47330005, "X": -98.50180063 }, "geometry": { "type": "Point", "coordinates": [ -98.50180063, 29.47330005 ] } }
+,
+{ "type": "Feature", "id": 44, "properties": { "School": "Schenck", "Address ": "101 Kate Schenck Ave. ", "Zip": 78223, "Y": 29.36120026, "X": -98.43548101 }, "geometry": { "type": "Point", "coordinates": [ -98.43548101, 29.36120026 ] } }
+,
+{ "type": "Feature", "id": 45, "properties": { "School": "Smith", "Address ": "823 S. Gevers St ", "Zip": 78203, "Y": 29.41130034, "X": -98.45673025 }, "geometry": { "type": "Point", "coordinates": [ -98.45673025, 29.41130034 ] } }
+,
+{ "type": "Feature", "id": 46, "properties": { "School": "Steele", "Address ": "722 Haggin St. ", "Zip": 78210, "Y": 29.38815099, "X": -98.46155025 }, "geometry": { "type": "Point", "coordinates": [ -98.46155025, 29.38815099 ] } }
+,
+{ "type": "Feature", "id": 47, "properties": { "School": "Stewart", "Address ": "1950 Rigsby Ave. ", "Zip": 78210, "Y": 29.39809058, "X": -98.43122103 }, "geometry": { "type": "Point", "coordinates": [ -98.43122103, 29.39809058 ] } }
+,
+{ "type": "Feature", "id": 48, "properties": { "School": "Storm*", "Address ": "435 Brady Blvd. ", "Zip": 78207, "Y": 29.4025211, "X": -98.52928026 }, "geometry": { "type": "Point", "coordinates": [ -98.52928026, 29.4025211 ] } }
+,
+{ "type": "Feature", "id": 49, "properties": { "School": "Washington", "Address ": "1823 Nolan St. ", "Zip": 78202, "Y": 29.42723065, "X": -98.4578906 }, "geometry": { "type": "Point", "coordinates": [ -98.4578906, 29.42723065 ] } }
+,
+{ "type": "Feature", "id": 50, "properties": { "School": "W.W. White", "Address ": "545 S.W.W. White Rd. ", "Zip": 78220, "Y": 29.42302021, "X": -98.40556085 }, "geometry": { "type": "Point", "coordinates": [ -98.40556085, 29.42302021 ] } }
+,
+{ "type": "Feature", "id": 51, "properties": { "School": "Wilson", "Address ": "1421 Clower St. ", "Zip": 78201, "Y": 29.47768102, "X": -98.51908025 }, "geometry": { "type": "Point", "coordinates": [ -98.51908025, 29.47768102 ] } }
+,
+{ "type": "Feature", "id": 52, "properties": { "School": "Woodlawn", "Address ": "1717 W. Magnolia Ave. ", "Zip": 78201, "Y": 29.45601649, "X": -98.52403447 }, "geometry": { "type": "Point", "coordinates": [ -98.52403447, 29.45601649 ] } }
+,
+{ "type": "Feature", "id": 53, "properties": { "School": "Woodlawn Hills", "Address ": "110 W. Quill Drive ", "Zip": 78228, "Y": 29.46654076, "X": -98.56797044 }, "geometry": { "type": "Point", "coordinates": [ -98.56797044, 29.46654076 ] } }
+
+]
+}
